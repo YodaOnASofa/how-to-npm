@@ -1,6 +1,6 @@
 {
   "name": "learn-npm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Learn how to npm",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,14 @@
   },
   "author": "yodaonasofa",
   "license": "ISC",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YodaOnASofa/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YodaOnASofa/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/YodaOnASofa/how-to-npm#readme"
 }
